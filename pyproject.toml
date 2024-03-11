@@ -24,4 +24,5 @@ dependencies = [
     'matplotlib',
     'torch',
     'kaggle',
+    'rouge_score',
 ]
