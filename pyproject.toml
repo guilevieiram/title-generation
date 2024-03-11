@@ -23,4 +23,5 @@ dependencies = [
     'nltk',
     'matplotlib',
     'torch',
+    'kaggle',
 ]
